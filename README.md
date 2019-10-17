@@ -11,6 +11,7 @@ git add -A
 git commit -m "your name"
 git push origin master
 ```
+Make sure there are no conflicts 
 5. Then create your pull request.
 6. Star my [repository](https://github.com/Dhroov7/HacktoberFest2019).
 7. Congratulations!! You have successfully created your pull request.
